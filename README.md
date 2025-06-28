@@ -50,12 +50,13 @@ _Add a screenshot here later_
 
 ---
 
-## 📌 Future Enhancements (Optional)
+## 📌 Future Enhancements
 
-- File saving/loading using JSON
-- GUI version with Tkinter or web app with Flask
-- Student data validation (age/roll types)
-- Sorting student list by name/roll
+- 💾 Add save/load functionality using JSON or CSV
+- 🧠 Implement search by name or partial match
+- 📊 Add sorting options (by name, roll number, etc.)
+- 🖥️ Build a GUI version using Tkinter or a web app using Flask
+- 🔐 Add basic authentication or admin mode
 
 ---
 
