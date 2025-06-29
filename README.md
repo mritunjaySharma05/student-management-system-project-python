@@ -77,7 +77,7 @@ python student_management_system.py
 - **Name**: Mritunjay Sharma  
 - **Role**: AI & Python Student (2025)  
 - **Location**: India  
-- **GitHub**: 
+- **GitHub**:[https://github.com/mritunjaySharma05] 
 
 ---
 
